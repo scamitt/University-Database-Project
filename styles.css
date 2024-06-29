@@ -1,0 +1,72 @@
+/* Styles for buttons and form elements */
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .dropdown select, .dropdown button {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .dropdown button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown button:hover {
+    background-color: #45a049;
+  }
+  
+  .grades-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .grades-table th, .grades-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .grades-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .grades-table td {
+    background-color: #fff;
+  }
+  
+  .grades-table td:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .no-records {
+    color: #666;
+    margin-top: 20px;
+  }
+  
+  .success-message {
+    color: green;
+    margin-top: 10px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
