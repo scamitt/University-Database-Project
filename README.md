@@ -1,3 +1,1 @@
-# University-Database-Project
-# University-Database-Project
-# University-Database-Project
+Created a university database system using PHP for backend logic, MariaDB for database management, and HTML/CSS for frontend interface. This project includes student, faculty, course, and enrollment management functionalities.
