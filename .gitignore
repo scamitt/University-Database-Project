@@ -1,0 +1,4 @@
+# Ignore XAMPP specific files and folders
+/xampp/
+/htdocs/
+/logs/
